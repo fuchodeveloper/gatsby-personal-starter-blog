@@ -1,5 +1,5 @@
 ---
-path: css-styles-webpack
+path: /css-styles-webpack/
 date: 2019-11-02T23:07:12.308Z
 title: Load Different CSS Styles in Webpack 4
 description: "Building the frontend of your applications can be fun until you are blocked by the little things \U0001F642"
